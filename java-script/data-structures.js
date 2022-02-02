@@ -12,4 +12,35 @@ let holidays = [
     ['Valentines', 'Love', 'Warmth']
 ]
 
-// 
+// example of an object/dictionary
+
+let life = {
+    thomas: 'sad',
+    mary: 'bad',
+    candice: 'sweet',
+    billy: 'neat',
+    joe: 'smelly',
+    grandad: 'telly'
+}
+
+// Nested object/dictionary. two dimensional.
+
+let personality = {
+    aggressive: {
+        mood: 'hostile',
+        violenceRate: 'high',
+        fuse: 'short'
+    },
+
+    introvert: {
+        mood: 'calm',
+        violenceRate: 'low',
+        fuse: 'long'
+    },
+
+    extratrovert: {
+        mood: 'bouncy',
+        violenceRate: 'medium',
+        fuse: 'medium'
+    }
+}
